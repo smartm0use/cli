@@ -68,7 +68,6 @@ npm ERR! aliases: clean-install, ic, install-clean, isntall-clean
 npm ERR! 
 npm ERR! Run "npm help ci" for more info
 
-npm ERR! A complete log of this run can be found in:
 
 `
 
